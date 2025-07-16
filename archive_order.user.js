@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Amazon – Archive Order
-// @version      0.5
+// @version      0.6
 // @description  Re-Add Order Archiving back into Amazon.com
 // @match        https://www.amazon.com/gp/css/order-history*
+// @match        https://www.amazon.com/your-orders/*
 // @grant        none
 // @updateURL    https://github.com/dannyvoid/amazon-archive-order-userscript/raw/main/archive_order.user.js
 // @downloadURL  https://github.com/dannyvoid/amazon-archive-order-userscript/raw/main/archive_order.user.js
